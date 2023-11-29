@@ -42,7 +42,7 @@ function App() {
 
   return (
     <main>
-      <h1>Shamiksha AI Chatbot</h1>
+      <h1>Shamiksha's Chat Bot</h1>
 
       <section>
         {chats && chats.length

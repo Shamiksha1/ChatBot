@@ -14,7 +14,7 @@ This is a fullstack chatbot created with React, Nodejs, OpenAi, and ChatGPT.
 * [Vite](https://vitejs.dev/)
 
 ## Installation
-* Clone this repo `https://github.com/sdatth/ai-chatbot.git`
+* Clone this repo `https://github.com/Shamiksha1/ChatBot`
 * Navigate into the repo `cd react-nodejs-chatgpt-tutorial`
 
 * Navigate into the `backend` folder `cd backend`
